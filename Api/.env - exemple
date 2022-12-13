@@ -1,0 +1,7 @@
+﻿LINKEDIN_BASE_URL=https://api.linkedin.com/v2
+LINKEDIN_REQUEST_AUTHORIZATION=https://www.linkedin.com/oauth/v2/authorization
+LINKEDIN_GET_ACCESS_TOKEN=https://www.linkedin.com/oauth/v2/accessToken
+LINKEDIN_REDIRECT_URL=
+
+APP_CLIENT_ID=
+APP_CLIENT_SECRET=
